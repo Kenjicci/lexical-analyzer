@@ -1,0 +1,3 @@
+Lexical Analysis of the statement:
+
+int x = y * 6
